@@ -4,12 +4,13 @@
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on projects having mutual interests.
 - 📫 How to reach me: <br>
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dasabhijeet/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pixelinstinct/)
+&nbsp; &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dasabhijeet/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pixelinstinct/)
 
-**Skills/Stats:**
+**SKILLS/STATS:**
 <br><br>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasabhijeet&layout=compact&langs_count=8&theme=nightowl"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dasabhijeet&count_private=true&show_icons=true&theme=nightowl"/>
+&nbsp;
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dasabhijeet&count_private=true&show_icons=true&theme=radical"/>
 
 <!---
 dasabhijeet/dasabhijeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
