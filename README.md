@@ -8,8 +8,8 @@
 
 **Skills/Stats:**
 <br><br>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasabhijeet&layout=compact&langs_count=8&theme=onedark"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dasabhijeet&count_private=true&show_icons=true&theme=onedark"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasabhijeet&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dasabhijeet&count_private=true&show_icons=true&theme=nightowl"/>
 
 <!---
 dasabhijeet/dasabhijeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
