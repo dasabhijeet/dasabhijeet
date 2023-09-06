@@ -4,10 +4,11 @@
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on projects having mutual interests.
 - 📫 How to reach me:
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dasabhijeet/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pixelinstinct/)
+<br>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dasabhijeet/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pixelinstinct/)
 
-<h4>**Skills/Stats:**</h4>
-<br><br>
+**Skills/Stats:**
+<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasabhijeet&layout=compact&langs_count=8"/>
 
 <!---
