@@ -8,7 +8,7 @@
 
 **Skills/Stats:**
 <br><br>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasabhijeet&layout=compact&langs_count=8"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasabhijeet&layout=compact&langs_count=8&theme=onedark"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dasabhijeet&count_private=true&show_icons=true&theme=onedark"/>
 
 <!---
