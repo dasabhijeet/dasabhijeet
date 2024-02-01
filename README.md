@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on projects having mutual interests.
 - 📫 How to reach me: <br>
 &nbsp; &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abhijeet256/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pixelinstinct/)
+- <p><b>My Email Address:</b> "adas.eletter384@outlook.com"</p>
+- <p><b>My PGP Key:</b> "pub (4)rsa4096/dac3be2361eb4eb47adbbd7ea81b884f6fa5f87c 2024-01-04T20:55:10Z" (you can find the key in any key server)</p>
+
 
 **SKILLS/STATS:**
 <br><br>
