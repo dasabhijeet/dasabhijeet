@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://github.com/dasabhijeet">@dasabhijeet</a>
 - 😄 Pronouns: He / Him
-- 👀 I’m interested in machine learning, computer vision and server side technologies.
+- 👀 I’m interested in machine learning, computer vision and server side back end technologies.
 - 🌱 I’m currently learning new technologies in software development, more of which you can find on <a href="https://dasabhijeet.com/">my website</a>.
 - 💞️ I’m looking to collaborate on projects having mutual interests.
 - 📫 How to reach me: <br>
