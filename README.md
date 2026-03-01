@@ -8,8 +8,8 @@
 
 **📌PINS:**
 <br><br>
-[![Signal-Transfer-Pipeline](https://helio-github-stats.vercel.app/api/pin?username=dasabhijeet&repo=Signal-Transfer-Pipeline&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://nice-readme.vercel.app/repo-pins)
-[![Delivery-Management-System](https://helio-github-stats.vercel.app/api/pin?username=dasabhijeet&repo=Delivery-Management-System&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://nice-readme.vercel.app/repo-pins)
+[![Signal-Transfer-Pipeline](https://helio-github-stats.vercel.app/api/pin?username=dasabhijeet&repo=Signal-Transfer-Pipeline&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/dasabhijeet/Signal-Transfer-Pipeline)
+[![Delivery-Management-System](https://helio-github-stats.vercel.app/api/pin?username=dasabhijeet&repo=Delivery-Management-System&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/dasabhijeet/Delivery-Management-System)
 
 **🧠SKILLS:**
 <p align="left">
