@@ -19,11 +19,11 @@
 
 **📊STATISTICS:**
 <br><br>
-[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=dasabhijeet&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&langs_count=15)](https://nice-readme.vercel.app/top-langs)
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=dasabhijeet&custom_title=GitHub+Stats&theme=dark&title_color=75b1ff&text_color=e5f2ff&icon_color=4c71f2&ring_color=ab31ed&border_color=febebe&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=24&text_bold=true&disable_animations=false&number_format=long)](https://nice-readme.vercel.app/github-stats)
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=dasabhijeet&theme=aura_dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&date_format=d+F%5B%2C+Y%5D)](https://nice-readme.vercel.app/streak-stats)
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=dasabhijeet&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&langs_count=15)]()
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=dasabhijeet&custom_title=GitHub+Stats&theme=dark&title_color=75b1ff&text_color=e5f2ff&icon_color=4c71f2&ring_color=ab31ed&border_color=febebe&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=24&text_bold=true&disable_animations=false&number_format=long)]()
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=dasabhijeet&theme=aura_dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&date_format=d+F%5B%2C+Y%5D)]()
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dasabhijeet&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=dasabhijeet&style=for-the-badge)]()
 
 <!--legacy:<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dasabhijeet&count_private=true&show_icons=true&theme=radical"/>--->
 
