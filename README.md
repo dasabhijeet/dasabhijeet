@@ -6,6 +6,8 @@
 - 📫 How to reach me: <br>
 &nbsp; &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/abhijeet256/) &nbsp; [<img src="https://dasabhijeet.com/wp-content/uploads/2025/08/cropped-Clippy.jpg" width="4%"/>](https://dasabhijeet.com/) &nbsp; [<img src="https://raw.githubusercontent.com/dasabhijeet/dasabhijeet/main/assets/mail_icon.png" width="5%"/>](mailto:hello@dasabhijeet.com) &nbsp; [<img src="https://raw.githubusercontent.com/dasabhijeet/dasabhijeet/main/assets/twitter-x-logo.jpg" width="5%"/>](https://twitter.com/akselabhijeet) &nbsp; [<img src="https://raw.githubusercontent.com/dasabhijeet/dasabhijeet/main/assets/GnuPG-Logo.png" width="4%"/>](https://keys.openpgp.org/vks/v1/by-fingerprint/B9BFB2D8FE7145FEC03766B566DA1CF6B9FA0302)
 
+![hackerman](https://github.com/user-attachments/assets/272a3399-6fcd-4029-b683-748ce0257227)
+
 **📌PINS:**
 <br><br>
 [![Signal-Transfer-Pipeline](https://helio-github-stats.vercel.app/api/pin?username=dasabhijeet&repo=Signal-Transfer-Pipeline&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/dasabhijeet/Signal-Transfer-Pipeline)
