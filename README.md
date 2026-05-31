@@ -8,7 +8,7 @@
 
 **📌PINS:**
 <br><br>
-[![LinkGuard-Application](https://helio-github-stats.vercel.app/api/pin?username=dasabhijeet&repo=LinkGuard-Application&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/dasabhijeet/Signal-Transfer-Pipeline)
+[![LinkGuard-Application](https://helio-github-stats.vercel.app/api/pin?username=dasabhijeet&repo=LinkGuard-Application&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/dasabhijeet/LinkGuard-Application)
 [![Delivery-Management-System](https://helio-github-stats.vercel.app/api/pin?username=dasabhijeet&repo=Delivery-Management-System&theme=dark&hide_border=false&border_radius=4.5&card_width=466)](https://github.com/dasabhijeet/Delivery-Management-System)
 
 **🧠SKILLS:**
